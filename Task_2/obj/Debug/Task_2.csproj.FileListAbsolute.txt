@@ -1,0 +1,19 @@
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_2\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_2\Task_2\bin\Debug\Task_2.exe
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_2\Task_2\bin\Debug\Task_2.pdb
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_2\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_2\Task_2\obj\Debug\Task_2.Form1.resources
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_2\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_2\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\C# Assignment\Task_2\Task_2\obj\Debug\Task_2.pdb
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_2\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_2\Task_2\obj\Debug\Task_2.Form1.resources
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_2\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\Admin\Documents\2nd year 1st semester\Business Process and ERP\ERP with C#\21003995 (P.L.A Perera)\Task_2\Task_2\obj\Debug\Task_2.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\C# codes\Task_2\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2019\C# codes\Task_2\Task_2\obj\Debug\Task_2.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2019\C# codes\Task_2\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2019\C# codes\Task_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\Admin\Documents\Visual Studio 2019\C# codes\Task_2\Task_2\obj\Debug\Task_2.pdb
