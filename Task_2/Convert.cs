@@ -9,9 +9,9 @@ namespace Task_2
     class Convert
     {
         public int meter;
-        public double getValue()
+        public float getValue()
         {
-            double kilometer =(double) meter / 1000;
+            float kilometer =(float) meter / 1000;
             return kilometer;
         }
 
